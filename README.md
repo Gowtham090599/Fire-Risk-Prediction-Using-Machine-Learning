@@ -1,5 +1,4 @@
 # Fire-Risk-Prediction-Using-Machine-Learning
-This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Code for San Francisco](http://www.codeforsanfrancisco.org).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
 
 #### Project Status: Active
 #### Current Model's Average F1 Score: 0.67
@@ -68,7 +67,13 @@ SF Fire Risk Attribute Sheet
 | Chris Quiambao| @ccquiambao    | Data Scientist                  | https://github.com/ccquiambao | 
 | Hannah Gorman | @hannahrosey   | Data Scientist, Visualization   |                               |
 
-## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our Slack channel is `#datasci-firerisk`
-* Feel free to contact team leads with any questions or if you are interested in contributing!  Most of our activities are done in our Slack channel.
+## 🌟 About Me
+
+Hi there! I'm **Gowtham Sai**. I am Data Analyst with over 3 years of experience in the insurance and healthcare domains. Skilled in managing projects, data    warehousing, data analysis, visualization, statistical modeling, and machine learning. Proven track record in understanding business  requirements, synthesizing complex data into actionable insights, and effectively communicating findings to diverse stakeholders.  Demonstrated success in ensuring data quality and integrity and developing ETL pipelines.
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-sai-08a766181/)
+
+
+
